@@ -259,7 +259,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <ul>
     <li><a href="https://www.github.com/derhunter13-cmr">Github</a></li>
     <li><a href="mailto:felocksadrack@gmail.com">e-mail</a></li>
-    <li><a href="https://www.github.com/">Github</a></li>
+    <li><a href="https://www.github.com/Liul-Abera">Github</a></li>
     <li><a href="mailto:liulabera43@gmail.com">e-mail</a></li>
     </ul>
 </details>
