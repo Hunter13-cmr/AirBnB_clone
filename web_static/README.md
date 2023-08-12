@@ -71,4 +71,4 @@ What you should learn from this project:
 * Improve the page by adding Accessibility support
 
 ---
-:wq
+
